@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "netlify_lambda serve src",
-    "build": "yarn netlify-lambda build src/lambda"
+    "build": "npm install netlify-lambda --save"
   },
   "author": "",
   "license": "ISC",
