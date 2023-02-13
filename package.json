@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "netlify_lambda serve src",
-    "build": "netlify_lambda build src"
+
   },
   "author": "",
   "license": "ISC",
